@@ -1,0 +1,4 @@
+data/raw/
+.Rproj.user
+data/new_orleans/reviews.rds
+.DS_Store
