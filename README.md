@@ -112,7 +112,7 @@ I filtered the original files and saved smaller RDS files that contain the New O
 
 The full analysis can be viewed here:
 
-[View the Full Project Report](yelp_new_orleans_project.html)
+[View the Full Project Report](https://abhishek-lamichhane2003.github.io/yelp-new-orleans-project/yelp_new_orleans_project.html)
 
 The Quarto source file is:
 
