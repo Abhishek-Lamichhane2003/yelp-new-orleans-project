@@ -109,9 +109,9 @@ I filtered the original files and saved smaller RDS files that contain the New O
 
 ## Full Report
 
-The full analysis is in:
+The full analysis can be viewed here:
 
-`yelp_new_orleans_project.html`
+[View the Full Project Report](yelp_new_orleans_project.html)
 
 The Quarto source file is:
 
