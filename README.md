@@ -70,8 +70,9 @@ yelp-new-orleans-project/
 │
 ├── R/
 │   ├── import.R
-│   ├── geographic_analysis.R
-│   └── final_analysis.R
+│   └── geographic_analysis.R
+│
+├── final_analysis.R
 │
 ├── data/
 │   └── new_orleans/
